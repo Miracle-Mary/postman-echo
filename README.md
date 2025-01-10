@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/o230mls2mnm56me8?svg=true)](https://ci.appveyor.com/project/Miracle-Mary/postman-echo)
